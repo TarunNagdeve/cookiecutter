@@ -1,0 +1,7 @@
+cookiecutter module
+===================
+
+.. automodule:: cookiecutter
+   :members:
+   :undoc-members:
+   :show-inheritance:
